@@ -18,18 +18,18 @@
     "tools"
   ],
   "dependencies": {
-    "async": "~1.0.0",
-    "colors": "1.0.x",
+    "async": "~2.1.2",
+    "colors": "~1.1.2",
     "cycle": "1.0.x",
     "eyes": "0.1.x",
     "isstream": "0.1.x",
-    "pkginfo": "0.3.x",
+    "pkginfo": "~0.4.0",
     "stack-trace": "0.0.x"
   },
   "devDependencies": {
     "hock": "1.x.x",
     "std-mocks": "~1.0.0",
-    "vows": "0.7.x"
+    "vows": "~0.8.1"
   },
   "main": "./lib/winston",
   "scripts": {
